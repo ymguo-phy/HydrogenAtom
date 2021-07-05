@@ -58,6 +58,37 @@ https://github.com/GuoYimingac/HydrogenAtom/blob/main/LaguerreGen.m
 Auxiliary program for solving legendre polynomials
 
 ## How to use
+Plot Spherical Harmonic:
+
+
+<iframe width="806" height="504" src="https://www.youtube.com/embed/xo_ccJpUOzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Plot Radial Function:
+
+
+<iframe width="806" height="504" src="https://www.youtube.com/embed/FeEqNSLN7kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Plot Electron Cloud:
+
+
+<iframe width="790" height="494" src="https://www.youtube.com/embed/q7TJMceK_2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Reference:
+1.Hydrogen Orbitals. https://www.mathworks.com/matlabcentral/fileexchange/64274-hydrogen-orbitals.
+2.Bohr, N. I. On the constitution of atoms and molecules. The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science 26, 1–25 (1913).
+3.Garcia, R., Zozulya, A. & Stickney, J. MATLAB codes for teaching quantum physics: Part 1. arXiv:0704.1622 [physics] (2007).
+4.Monte Carlo method. Wikipedia (2021).
+5.Szego, G. ORTHOGONAL POLYNOMIALS. 440 doi:10.1090/coll/023.
+6.Spherical harmonics. Wikipedia (2021).
+7.刘浩 & 韩晶. MATLAB R2016a完全自学一本通. (2016).
+8.MATLAB01:基本的数学运算与矩阵运算_ncepu_Chen的博客-CSDN博客. https://blog.csdn.net/ncepu_Chen/article/details/103034286.
+9.MATLAB官方文档.
+10.曾谨言. 量子力学导论. (北京大学出版社, 1998).
+11.Young, H. D., Freedman, R. A., Ford, A. L. & Sears, F. W. Sears and Zemansky’s university physics: with modern physics. (Pearson, 2016).
+12.Griffiths, D. J., & Schroeter, D. F. (2018). Introduction to quantum mechanics. Cambridge University Press.
 
 
 
